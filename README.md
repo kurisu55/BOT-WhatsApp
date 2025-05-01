@@ -41,6 +41,8 @@ client.on('message_create', message => {
         }
     })
 ```
+Untuk dokumentasi lengkapnya langsung saja ke [Creating Your Bot](https://wwebjs.dev/guide/creating-your-bot/#qr-code-generation)
+
 ### Ekspetasi Output
 **Coming Soon**
 
