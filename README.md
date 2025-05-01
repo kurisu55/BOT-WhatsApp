@@ -1,6 +1,6 @@
 # **Bot WhatsApp**
 ## Introduction
-Project ini merupakan project mandiri yang tidak memiliki tujuan apapun selain menambah repository. ==Project ini akan terus berlanjut sesuai dengan mood programmer== :relaxed:
+Project ini merupakan project mandiri yang tidak memiliki tujuan apapun selain menambah repository. <mark>Project ini akan terus berlanjut sesuai dengan mood programmer</mark> :relaxed:
 
 ## Requirement
 **Library whatsapp-web.js** <br>
