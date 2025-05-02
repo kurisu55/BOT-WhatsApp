@@ -47,4 +47,4 @@ Untuk dokumentasi lengkapnya langsung saja ke [Creating Your Bot](https://wwebjs
 **Coming Soon**
 
 ## Credits
-[whatsspp-web JS](https://wwebjs.dev/)
+[whatsapp-web JS](https://wwebjs.dev/)
